@@ -1,0 +1,3 @@
+- git:
+    local-name: rviz_animated_view_controller
+    uri: https://github.com/garaemon/rviz_animated_view_controller.git
